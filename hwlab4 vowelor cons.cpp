@@ -17,4 +17,4 @@ if(isalpha(ch))	{
 	  }
   } else {printf("Error! Please enter a letter only.");
   }
-}
+ return 0;}
